@@ -1,6 +1,6 @@
 # GlamSwap SA
 
-A peer-to-peer fashion marketplace for buying, selling, and renting formal outfits across South Africa — built for matric dances, weddings, and other formal events.
+A consumer-to-consumer fashion marketplace for buying, selling, and renting formal outfits across South Africa — built for matric dances, weddings, and other formal events.
 
 ## Overview
 
