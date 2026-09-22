@@ -55,3 +55,15 @@ The project includes a full user manual, legal terms and conditions, and a brand
 ## Notes
 
 Built as a full-stack web development and e-commerce project, covering database design, secure payment integration, role-based access control, and responsive UI design. covering database design, secure payment integration, role-based access control, and responsive UI design.
+
+## Developer
+
+**Kayla Abdul Ganie**
+
+BSc Information Technology – Software Engineering  
+
+Eduvos
+
+GitHub: [@kayla014](https://github.com/kayla014)
+kayla014 - Overview
+BSc IT (Software Engineering) Student at Eduvos | Software Engineering Student - kayla014
