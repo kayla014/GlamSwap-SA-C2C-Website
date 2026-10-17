@@ -62,8 +62,6 @@ Built as a full-stack web development and e-commerce project, covering database 
 
 BSc Information Technology – Software Engineering  
 
-Eduvos
-
 GitHub: [@kayla014](https://github.com/kayla014)
 kayla014 - Overview
-BSc IT (Software Engineering) Student at Eduvos | Software Engineering Student - kayla014
+BSc IT (Software Engineering) | Software Engineering Student - kayla014
